@@ -56,3 +56,33 @@ Difficulté : moyenne
 
 Pour l'exercice 1 :
 Vraiment très difficile d'utiliser l'importation des datasets directement depuis Tensorflow, il a donc fallu télécharger les documents en CSV pour pouvoir travailler dessus.
+
+### Mini projet :
+
+#### Bibliothèques :
+
+- numpy
+- matplotlib
+- keras
+- sklearn
+
+#### Difficulté :
+
+Pour l'exercice 1 :
+Difficulté : facile
+
+Pour l'exercice 2 :
+Difficulté : facile
+
+Pour l'exercice 3 :
+Difficulté : facile
+
+Pour l'exercice 4 : 
+Difficulté : moyenne
+
+Pour l'exercice 5 : 
+Difficulté : difficile
+
+#### Commentaires :
+
+Compliqué de mettre en place tout le mini projet même avec les 4 premiers exercices.
