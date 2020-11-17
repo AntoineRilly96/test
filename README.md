@@ -1,49 +1,58 @@
 # IA-DeepLearning
 ## Année: 2020-2021
 
-### TP1 : 
-
-1.  Rappels sur numpy, pandas, scikit-learn etc.
-2.	Implémentation de perceptron en Python
-3.	Implémentation de Multilayer perceptron en Python
-4.	Introduction à Tensorflow 2.0+
+### TP2 : 
 
 #### Bibliothèques :
 
-Pour l'ensemble des exercices nous nous sommes servi de Numpy ainsi que de MatPlotLib.
-Pour l'exercice 4 nous avons également utilisé la bibliothèque Tensorflow.
+Exercice 1 : 
+- pandas
+- sklearn
+- tensorflow
+
+Exercice 2 :
+- requests
+- bs4
+- spacy
+- nltk
+- gensim
+
+Exercice 3 :
+- numpy
+- matplotlib
+- pandas
+- math
+- keras
+- sklearn
 
 #### Références : les URLs, les groupes
 
+Pour l'exercice 1 :
+- https://www.tensorflow.org/datasets/catalog/wine_quality
+- https://archive.ics.uci.edu/ml/datasets/wine+quality
+
 Pour l'exercice 2 : 
-- https://www.youtube.com/watch?v=2w9uLD9rGMA&t=664s
-- https://johnsamuel.info/fr/enseignement/cours/2020/MachineLearning/cours1.html#slide42
+- http://www.nltk.org/book/ch05.html
+- https://stackabuse.com/python-for-nlp-tokenization-stemming-and-lemmatization-with-spacy-library/
+- https://johnsamuel.info/fr/enseignement/cours/2020/MachineLearning/cours2.html
+- https://en.wikipedia.org/wiki/Paris
 
 Pour l'exercice 3 :
-- https://penseeartificielle.fr/focus-reseau-neurones-artificiels-perceptron-multicouche/
-
-Pour l'exercice 4 :
-- https://www.youtube.com
-- https://www.tensorflow.org
-- http://yann.lecun.com/exdb/mnist/
+- https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
 
 
 #### Difficulté : niveau de difficulté (facile, moyenne, difficile)
 
+Pour l'exercice 1 :
+Difficulté : difficile
+
 Pour l'exercice 2 :
 Difficulté : moyenne
 
 Pour l'exercice 3 :
-Difficulté : difficile
-
-Pour l'exercice 4 :
 Difficulté : moyenne
 
 #### Commentaires :
 
-Pour l'exercice 2 :
-Bonne entrée en matière malgrés un manque d'information en ligne pour apprendre à faire un perceptron sans utiliser Keras. Le cours reste donc très utile pour cette partie.
-
-Pour l'exercice 4 : 
-Beaucoup de documentation en ligne (texte sur Tensorflow ou vidéo sur Youtube).
-Il n'est pas noté dans les consignes de l'exercice si l'utilisation de Keras était autorisé. Alors nous avons produit 2 codes distincts qui présente avec et sans Keras la mise en place d'un réseau de neurone avec Tensorflow. Pour ce faire nous avons alors utiliser les version 1.0 et 2.3 de Tensorflow.
+Pour l'exercice 1 :
+Vraiment très difficile d'utiliser l'importation des datasets directement depuis Tensorflow, il a donc fallu télécharger les documents en CSV pour pouvoir travailler dessus.
