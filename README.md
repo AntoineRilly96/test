@@ -44,12 +44,15 @@ Pour l'exercice 3 :
 #### Difficulté : niveau de difficulté (facile, moyenne, difficile)
 
 Pour l'exercice 1 :
+
 Difficulté : difficile
 
 Pour l'exercice 2 :
+
 Difficulté : moyenne
 
 Pour l'exercice 3 :
+
 Difficulté : moyenne
 
 #### Commentaires :
@@ -69,18 +72,23 @@ Vraiment très difficile d'utiliser l'importation des datasets directement depui
 #### Difficulté :
 
 Pour l'exercice 1 :
+
 Difficulté : facile
 
 Pour l'exercice 2 :
+
 Difficulté : facile
 
 Pour l'exercice 3 :
+
 Difficulté : facile
 
 Pour l'exercice 4 : 
+
 Difficulté : moyenne
 
 Pour l'exercice 5 : 
+
 Difficulté : difficile
 
 #### Commentaires :
