@@ -47,9 +47,13 @@ Pour l'exercice 1 :
 
 Difficulté : difficile
 
+
+
 Pour l'exercice 2 :
 
 Difficulté : moyenne
+
+
 
 Pour l'exercice 3 :
 
@@ -75,17 +79,25 @@ Pour l'exercice 1 :
 
 Difficulté : facile
 
+
+
 Pour l'exercice 2 :
 
 Difficulté : facile
+
+
 
 Pour l'exercice 3 :
 
 Difficulté : facile
 
+
+
 Pour l'exercice 4 : 
 
 Difficulté : moyenne
+
+
 
 Pour l'exercice 5 : 
 
